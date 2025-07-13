@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 ## 👋 Welcome to My Homepage!
 
 ### 🌟 About Me
+I am Tonghe Zhang (he/him). 
 
-🤖 **My Focus**: I am working on robot learning, teaching robots to learn on their own.
+🤖 **I am working on** robot learning, teaching robots to learn on their own.
 
-🚀 **My Vision**: To make robots learn efficiently from prior knowledge and through trial-and-error, creating intelligent, reliable, and efficient robotic systems with ease. 
+🚀 **My vision is to** make robots learn efficiently from prior knowledge and through trial-and-error, creating intelligent, reliable, and efficient robotic systems cost-efficiently. 
 
-📚 **My Background**: I have been doing reinforcement learning theory, deep reinforcement learning, generative modeling, and sim-to-real robotics in the past. 
+📚 **In the past**, I have worked on reinforcement learning theory, deep reinforcement learning, generative modeling, and sim-to-real robotics in the past. 
 
 ### 👯 Get in Touch
 I'm currently pursuing my Master's of Science in Robotics at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! Here is my email: [tonghez@andrew.cmu.edu](mailto:tonghez@andrew.cmu.edu)
