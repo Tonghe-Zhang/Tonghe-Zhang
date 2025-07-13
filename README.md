@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Welcome to My Homepage!
+## Welcome to My Homepage!
 
 ### About Me
 I am Tonghe Zhang (he/him). 
