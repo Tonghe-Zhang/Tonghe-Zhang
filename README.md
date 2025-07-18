@@ -28,7 +28,7 @@ I am Tonghe Zhang (he/him).
 ### 👯 Get in Touch
 I'm currently pursuing my Master of Science in Robotics at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! 
 
-Here is my email: [tonghez@andrew.cmu.edu](mailto:tonghez@andrew.cmu.edu). My personal website is [here](https://tonghe-zhang.github.io/). 
+Here is my email: [tonghez@andrew.cmu.edu](mailto:tonghez@andrew.cmu.edu), and my [personal website](https://tonghe-zhang.github.io/). 
   
   
 
