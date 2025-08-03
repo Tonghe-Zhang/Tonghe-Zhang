@@ -26,9 +26,9 @@ I am Tonghe Zhang (he/him).
 **In the past**, I have worked on generative modeling, statistical reinforcement learning (RL) theory, and sim-to-real robotics. 
 
 ### 👯 Get in Touch
-I'm currently pursuing my Master of Science in Robotics at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! 
+I'm currently pursuing my Master of Science in Robotics (MSR) at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! 
 
-Here is my email: [tonghez@andrew.cmu.edu](mailto:tonghez@andrew.cmu.edu), and my [personal website](https://tonghe-zhang.github.io/). 
+Here is my email: [tonghez@andrew.cmu.edu](mailto:tonghez@andrew.cmu.edu) and my [personal website](https://tonghe-zhang.github.io/). 
   
   
 
