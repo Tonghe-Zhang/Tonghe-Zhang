@@ -23,7 +23,7 @@ I am Tonghe Zhang (he/him).
 
 **My vision** is to make robots learn efficiently from prior knowledge and through trial-and-error, creating intelligent, reliable, and efficient robotic systems cost-effectively. 
 
-**In the past**, I have worked on generative modeling, statistical reinforcement learning (RL) theory, and humanoid loco-manipulation. 
+**In the past**, I have worked on generative modeling, statistical reinforcement learning theory, and humanoid loco-manipulation. 
 
 ### 👯 Get in Touch
 I'm currently pursuing my Master of Science in Robotics (MSR) at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! 
