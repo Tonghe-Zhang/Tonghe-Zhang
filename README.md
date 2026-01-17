@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## ✨ Welcome to My Homepage!
 
 ### 🔭 About Me
-I am Tonghe Zhang (he/him). 
+I am Tonghe Zhang (he/him), and my name reads like Tung-ho Zang. 
 
 **I am working on** robot learning, teaching robots to learn on their own.
 
