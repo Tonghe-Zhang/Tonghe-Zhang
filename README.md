@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 ### 🔭 About Me
 My name is Tonghe Zhang (he/him). It’s pronounced Tung-ho Zang.
 
-**I am working on** robot learning, teaching robots to learn on their own. My current focus is on manipulation, foundation models, data, and architecture. 
+**I am working on** robot learning, teaching robots to learn on their own. 
+
+**I currently focus on** the architecture design and real-world data collection of manipulation foundation models. 
 
 **My vision** is to make robots learn efficiently from prior knowledge and through trial-and-error, creating intelligent, reliable, and efficient robotic systems cost-effectively. 
 
