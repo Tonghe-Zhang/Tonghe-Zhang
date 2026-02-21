@@ -4,9 +4,9 @@
 ### 🔭 About Me
 My name is Tonghe Zhang (he/him). It’s pronounced Tung-ho Zang.
 
-**I am working on** robot learning. 
+**I work on** scalable robot learning. 
 
-**I want to** make robots learn efficiently from prior knowledge and through trial-and-error, creating intelligent, reliable, and efficient robotic systems cost-effectively. 
+**My goal** is to build robot learning systems that are robust, efficient, and dexterous. 
 
 **Previously**, I studied RL for visual-language-action models, humanoid loco-manipulation, generative modeling and statistical reinforcement learning theory. 
 
