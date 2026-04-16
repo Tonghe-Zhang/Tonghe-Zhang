@@ -6,9 +6,9 @@ My name is Tonghe Zhang (he/him). It’s pronounced Tung-ho Zang.
 
 **I work on** scalable robot learning. 
 
-**My goal** is to build robot learning systems that are robust, efficient, and dexterous. 
+**My goal** is to build robot learning systems that are robust, efficient, dexterous, and controlable. 
 
-**Previously**, I studied RL for visual-language-action models, humanoid loco-manipulation, generative modeling and statistical reinforcement learning theory. 
+**Previously**, I worked on RL for visual-language-action models, humanoid loco-manipulation, generative modeling and statistical reinforcement learning theory. 
 
 ### 👯 Get in Touch
 I'm currently a graduate student in Robotics at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! 
