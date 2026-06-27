@@ -6,7 +6,7 @@ My name is Tonghe Zhang (he/him). It’s pronounced Tung-ho Zang.
 
 **I work on** scalable robot learning. 
 
-**My goal** is to build general and dexterous robot learning system. 
+**My goal** is to build robot learning system that is controllable + general + dexterous. 
 
 **Previously**, I worked on RL for visual-language-action models, humanoid loco-manipulation, generative modeling and statistical reinforcement learning theory. 
 
