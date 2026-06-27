@@ -11,7 +11,7 @@ My name is Tonghe Zhang (he/him). It’s pronounced Tung-ho Zang.
 **Previously**, I worked on RL for visual-language-action models, humanoid loco-manipulation, generative modeling and statistical reinforcement learning theory. I am the leading author or core contributor of [ENPIRE](https://research.nvidia.com/labs/gear/enpire/), [BFM-Zero](https://lecar-lab.github.io/BFM-Zero/), [ReinFlow](https://arxiv.org/abs/2505.22094), etc. 
 
 ### 👯 Get in Touch
-I'm currently a graduate student in Robotics at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! 
+I'm currently a Masters student in Robotics at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/). Feel free to reach out for collaborations or just to chat! 
 
 Here is my email: [tonghez@andrew.cmu.edu](mailto:tonghez@andrew.cmu.edu) and my [personal website](https://tonghe-zhang.github.io/). 
   
