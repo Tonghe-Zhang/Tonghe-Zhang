@@ -4,7 +4,7 @@
 ### 🔭 About Me
 My name is Tonghe Zhang (he/him). It’s pronounced Tung-ho Zang.
 
-**I work on** scalable robot learning. 
+**I work on** robot learning at scale. 
 
 **My goal** is to build robot learning system that is controllable + general + dexterous. 
 
