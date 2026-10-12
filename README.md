@@ -4,9 +4,7 @@
 ### 🔭 About Me
 My name is Tonghe Zhang (he/him). It’s pronounced Tung-ho Zang.
 
-**I work on** robot learning at scale. 
-
-**My goal** is to build robot learning system that is controllable + general + dexterous. 
+**I teach robots to solve real-world problems reliably, at scale.**
 
 **Previously**, I led the development of or served as a core contributor to [ENPIRE](https://research.nvidia.com/labs/gear/enpire/), [BFM-Zero](https://lecar-lab.github.io/BFM-Zero/), [ReinFlow](https://arxiv.org/abs/2505.22094). I worked on RL for visual-language-action models, humanoid loco-manipulation, generative modeling and statistical reinforcement learning theory. 
 
